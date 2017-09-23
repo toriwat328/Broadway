@@ -11,6 +11,7 @@ h1{
 
 .header{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-position: center;
   color: white;
 }
 
